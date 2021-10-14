@@ -12,7 +12,7 @@ The rest, exploration, analysis and modeling, is contained in the following two 
 
 --
 
-  Many months after completion, I realized that I should have found a way to normalize the amplitudes of the waveforms to control for the effects of the loudness war, so as to allow for better comparison between dynamic and brick-walled observations of the same genre.
+  Many months after completion, I realized that I should have found a way to normalize the amplitudes of the waveforms to control for the effects of the Loudness War, so as to allow for better comparison between dynamic and brick-walled observations of the same genre.
 For example, the last plot in the write-up compares a segment of the centroid features of two death metal tracks from the late 80's: **Pestilence**'s "Dehydrated" and **Death**'s "Leprosy".
 Both of these tracks were recorded before the loudness war began, but one has a noticeably spikier centroid feature.
 This is likely caused by "Dehydrated" being from the 2017 remaster of the album *Consuming Impulse*.
